@@ -1,8 +1,8 @@
 <?php
 
-$servername = "db";
-$username = "edureka";
-$password = "admin";
+$servername = "database.cmqaetb0osxr.us-east-1.rds.amazonaws.com";
+$username = "admin";
+$password = "admin123";
 $db = "database";
 
 // Create connection
